@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.stvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\蘇家毅\\Desktop\\Unity Project\\Unity Packages\\STVR - 拳擊初作複製 urp\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "STVR [Testing]"
+        }
+      }
+    }
+  ]
+}

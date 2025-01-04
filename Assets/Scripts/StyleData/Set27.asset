@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74f1754d700344b40b727666befa0561, type: 3}
+  m_Name: Set27
+  m_EditorClassIdentifier: 
+  charStyle: 0
+  bodies: 3
+  bodyParts: 6
+  eyes: 0
+  gloves: 8
+  headParts: 0
+  mouthnNoses: 4
+  tails: 5
+  otherDress: 11
+  additionEyeEars: 0
